@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkg5&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kkg5&show_icons=true&theme=tokyonight)
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkg0510)](https://solved.ac/profile/kkg0510)
 
 <!--
 **kkg5/kkg5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
