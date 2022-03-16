@@ -1,6 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4,12,19,21,22,24,30&height=240&section=header&text=KKG&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4,12,19,21,22,24,30&height=150&section=header&text=KKG&fontAlignY=30&fontSize=55)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkg0510)](https://solved.ac/profile/kkg0510)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kkg5&show_icons=true&theme=tokyonight)
 
