@@ -5,7 +5,7 @@
   
 [![mazandi profile](http://mazandi.herokuapp.com/api?handle=kkg0510&theme=warm)](https://solved.ac/profile/kkg0510)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kkg5&show_icons=true&theme=tokyonight)](https://github.com/kkg5)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kkg5&show_icons=true&theme=tokyonight)](#)
 
 </div>
   
