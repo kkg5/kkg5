@@ -16,6 +16,8 @@
 <img src="https://img.shields.io/badge/spring_data_jpa-6DB33F?style=for-the-badge">
 <img src="https://img.shields.io/badge/spring_rest_docs-6DB33F?style=for-the-badge">
 <img src="https://img.shields.io/badge/querydsl-0089CF?style=for-the-badge">
+<img src="https://img.shields.io/badge/mapstruct-E94E1B?style=for-the-badge">
+<br>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
 
