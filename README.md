@@ -15,7 +15,7 @@
   </tr>
   <tr>
     <td><image src="https://github.com/kkg5/kkg5/assets/97646802/87ce7dc0-90b7-4468-ae0f-2df93ca8d589" width=150px></td>
-    <td>2023.03 - 2023.07</td>
+    <td>2023.04 - 2023.07</td>
     <td>ITSM팀 풀스택 개발</td>
   </tr>
   <tr>
