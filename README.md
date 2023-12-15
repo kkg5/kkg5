@@ -20,8 +20,8 @@
   </tr>
   <tr>
     <td><image src="https://github.com/kkg5/kkg5/assets/97646802/e30e4cf9-5265-46a2-b171-867643cd85d7" width=150px></td>
-    <td>2023.07 - 현재</td>
-    <td>부스트캠프 웹・모바일 8기</td>
+    <td>2023.07 - 2023.12</td>
+    <td>네이버 부스트캠프 웹・모바일 8기 백엔드</td>
   </tr>
 </table>
 
